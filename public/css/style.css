@@ -1,0 +1,74 @@
+body{
+    margin-left: 35%;
+    margin-top: 100px;
+    width: 100%;
+    height: 100%;
+}
+input {text-align: left;
+
+    width:490px;
+    height: 45px;
+    margin: 5px;
+}
+h3{  font-family: 'Pacifico', cursive;
+    color: red;
+}
+.hidden{
+    display: none;
+}
+#register{
+
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    background-color: white;
+    height: 200px;
+    width: 500px;
+    text-align: center;
+
+    vertical-align: middle;
+}
+#level-select {
+
+
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    background-color: white;
+    height: 400px;
+    width: 500px;
+    text-align: center;
+
+    vertical-align: middle;
+
+}
+#level-select input {
+    height: 30px;
+}
+#game {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    background-color: white;
+    height: 400px;
+    width: 500px;
+    text-align: center;
+
+    vertical-align: middle;
+
+}
+#game-over {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    background-color: white;
+    height: 400px;
+    width: 500px;
+    text-align: center;
+
+    vertical-align: middle;
+
+}
+.golden {
+    color: gold;
+}
